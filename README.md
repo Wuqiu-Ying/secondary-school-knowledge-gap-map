@@ -1,6 +1,6 @@
 # 中学知识漏洞图谱 / Secondary School Knowledge Gap Map
 
-> 这曾是一个比赛项目，不过我没拿到奖，所以把这玩意开源出来了，希望能为能用上它的人提供一些灵感。
+这曾是一个比赛项目，不过我没拿到奖，所以把这玩意开源出来了，希望能为能用上它的人提供一些灵感。
 
 **Secondary School Knowledge Gap Map** is a local-first AI learning-gap diagnostic app. Upload an exam paper, confirm what was actually wrong, and it turns the result into a knowledge-gap map instead of another score report.
 
