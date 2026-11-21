@@ -1,0 +1,14 @@
+{
+  "name": "中学知识漏洞图谱",
+  "short_name": "中学知识漏洞图谱",
+  "description": "上传试卷，核对四问，看清知识漏洞。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f4ec",
+  "theme_color": "#171e2b",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

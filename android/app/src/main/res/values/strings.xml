@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">中学知识漏洞图谱</string>
+    <string name="title_activity_main">中学知识漏洞图谱</string>
+    <string name="package_name">cn.aiedu.xueqing</string>
+    <string name="custom_url_scheme">cn.aiedu.xueqing</string>
+</resources>
